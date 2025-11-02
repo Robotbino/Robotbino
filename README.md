@@ -7,11 +7,10 @@
 </h1>
 
 ## 👩🏽‍💻 About Me
-
-🎓 Graduated at North West University Vaal Campus in 2023.
-💡 Passionate about writing clean code, listening and making music and anime  
-🔭 Currently learning React 
-💬 I enjoy playing soccer, binge watching anime, writing clean code, and reading. 
+- 🎓 Graduated at North West University Vaal Campus in 2023
+- 💡 Passionate about writing clean code, listening and making music and anime
+- 🔭 Currently learning React
+- 💬 I enjoy playing soccer, binge watching anime, writing clean code, and reading
 
 ---
 
