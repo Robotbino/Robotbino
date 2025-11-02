@@ -8,7 +8,7 @@
 
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Your+Name;Developer+%7C+Student+%7C+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=36&pause=1000&color=F7EDA0&width=435&lines=Hi%2C+I'm+Your+Name;Developer+%7C+Student+%7C+Creator" alt="Typing SVG" />
 </h1>
 
 ---
