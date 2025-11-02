@@ -7,6 +7,7 @@
 </h1>
 
 ## 👩🏽‍💻 About Me
+
 🎓 Graduated at North West University Vaal Campus in 2023.
 💡 Passionate about writing clean code, listening and making music and anime  
 🔭 Currently learning React 
