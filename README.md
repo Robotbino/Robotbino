@@ -26,7 +26,7 @@
 
 ## 📬 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/bino-hlongwana-162226272" target="_blank">
+  <a href="www.linkedin.com/in/bino-hlongwana-162226272" >
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="Hlongwanabino@gmail.com">
