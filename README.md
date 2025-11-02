@@ -56,7 +56,7 @@ This is a basic Angular approach to a classical Memory game, with flipping cards
 player stats and keeping record of player info.  
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, Angular design, CSS
-🔗 [View Repository](https://github.com/yourusername/yourproject](https://github.com/Robotbino/CodePairs)
+🔗 [View Repository](https://github.com/Robotbino/CodePairs)
 
 ---
 
