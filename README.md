@@ -5,11 +5,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=30&pause=1000&color=B1B62F&width=435&lines=Hi%2C+my+name+is+Bino+Hlongwana;Software+Developer+%7C+Musician+;Curious+about+things+%3A)" alt="Typing SVG" />
 </h1>
+
 ## 👩🏽‍💻 About Me
-🎓 Graduated at North West University.
-💡 Passionate about clean code, music and anime  
+🎓 Graduated at North West University Vaal Campus in 2023.
+💡 Passionate about writing clean code, listening and making music and anime  
 🔭 Currently learning React 
-💬 I enjoy making music, binge watching anime, writing clean code, and reading. 
+💬 I enjoy playing soccer, binge watching anime, writing clean code, and reading. 
 
 ---
 
@@ -25,10 +26,10 @@
 
 ## 📬 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="www.linkedin.com/in/bino-hlongwana-162226272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="Hlongwanabino@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
