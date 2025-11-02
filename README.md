@@ -39,7 +39,7 @@
 ## 📂 Featured Projects
 🏨 **Project 1: EmployeeManager-Application**  
 This is a simple implementation of CRUD principles using the SpringBoot framework.This implemetion is particularly interesting
-I was learning how to implement it with JWT authentication for security and authourization.
+I was learning how to implement it with JWT authentication for security and authourization.  
 🔧 *Tech Stack:* Java, SpringBoot, MySql  
 📌 *Focus:* database design, validation logic, user authentication.  
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application.git)
