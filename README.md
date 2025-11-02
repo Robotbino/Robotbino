@@ -37,17 +37,26 @@
 ---
 
 ## 📂 Featured Projects
-🏨 **Project 1: [Your Project Name]**  
-A short description of your project.  
-🔧 *Tech Stack:* C#, SQL Server, .NET  
-📌 *Focus:* database design, validation logic, UI design  
-🔗 [View Repository](https://github.com/yourusername/yourproject)
+🏨 **Project 1: EmployeeManager-Application **  
+This is a simple implementation of CRUD principles using the SpringBoot framework.This implemetion is particularly interesting
+I was learning how to implement it with JWT authentication for security and authourization.
+🔧 *Tech Stack:* Java, SpringBoot, MySql 
+📌 *Focus:* database design, validation logic, user authentication.
+🔗 [View Repository]([https://github.com/yourusername/yourproject](https://github.com/Robotbino/EmployeeManager-Application.git))
 
-🌆 **Project 2: [Your Project Name]**  
-A short description of your second project.  
-🔧 *Tech Stack:* HTML, CSS, JavaScript  
+
+⚗️ **Project 2: [EmployeeManager-Application-Frontend ]**  
+This is the frontend of my Employee Manager Application built in Angular. 
+🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, API integration  
 🔗 [View Repository](https://github.com/yourusername/yourproject)
+
+🌆 **Project 2: [Code Pairs Memory Game](In Progress)**  
+This is a basic Angular approach to a classical Memory game, with flipping cards and updating
+player stats and keeping record of player info.
+🔧 *Tech Stack:* HTML, CSS, TypeScript  
+📌 *Focus:* user interface, Angular design, CSS
+🔗 [View Repository](https://github.com/yourusername/yourproject](https://github.com/Robotbino/CodePairs)
 
 ---
 
