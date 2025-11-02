@@ -55,7 +55,7 @@ This is the frontend of my Employee Manager Application built in Angular.
 This is a basic Angular approach to a classical Memory game, with flipping cards and updating
 player stats and keeping record of player info.  
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
-📌 *Focus:* user interface, Angular design, CSS
+📌 *Focus:* user interface, Angular design, CSS 
 🔗 [View Repository](https://github.com/Robotbino/CodePairs)
 
 ---
