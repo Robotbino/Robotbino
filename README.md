@@ -2,7 +2,7 @@
 <!-- Created by Bino Hlongwana | https://github.com/Tha-ndo-kuhle -->
 
 <h1 align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=36&pause=1000&color=F7EDA0&width=435&lines=Welcome+to+my+github+%3A)" alt="Typing SVG"" />
+  <img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=36&pause=1000&color=F7EDA0&width=435&lines=Welcome+to+my+github+%3A)" alt="Typing SVG"" />
 </h1>
 
 ---
