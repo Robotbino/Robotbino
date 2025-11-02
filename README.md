@@ -5,59 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=36&pause=1000&color=F7EDA0&width=435&lines=Welcome+to+my+github+%3A)" alt="Typing SVG"" />
 </h1>
 
----
 
-## 🪄 About This Template
-
-This repository is a **ready-to-use template** for building your own personalized **GitHub Profile README**, inspired by [Thandokuhle Mdlalose’s](https://github.com/Tha-ndo-kuhle) profile.  
-It’s designed to help you quickly set up a professional, visually appealing introduction to your GitHub presence.
-
----
-
-## 📘What’s Inside
-- A typing animation headline  
-- “About Me” section with emojis  
-- Tech & tools badges  
-- Social media buttons  
-- Featured projects section  
-- GitHub trophies & stats  
-- Clean, easy-to-edit markdown layout  
-
----
-
-## 🧭 How to Use This Template
-
-Follow these steps to create your own GitHub profile README:
-
-1. **Use this template**
-   - Click the green **“Use this template”** button at the top of the page  
-   - Select **“Create a new repository”**
-
-2. **Name your new repository**
-   - The name **must match your GitHub username exactly**  
-     Example:  
-     ```
-     github.com/Tha-ndo-kuhle → repo name should be Tha-ndo-kuhle
-     ```
-   - This is how GitHub recognizes it as your *profile README*
-
-3. **Edit the README.md file**
-   - Replace all example info (like “Your Name”) with your own
-   - Update links, badges, and project info
-
-4. **Commit your changes**
-   - Click “Commit changes” to save them to your profile repo
-
-5. **Enjoy your new profile!**
-   - Your updated profile README will appear instantly on your GitHub home page 
-
----
-
-## 💻 Template Example
-
-You can use this as your starting layout and customize it as much as you like 
-
-```markdown
 <!-- Typing animation header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Your+Name;Developer+%7C+Student+%7C+Creator" alt="Typing SVG" />
