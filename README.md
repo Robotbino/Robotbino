@@ -3,7 +3,7 @@
 
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=atkinson+hyperlegible&weight=900&size=30&pause=1000&color=B1B62F&width=435&lines=Hi%2C+my+name+is+Bino+Hlongwana;Software+Developer+%7C+Musician+;Curious+about+things+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&pause=1000&color=DFB11C&width=435&lines=Hi%2C+my+name+is+Bino;Software+Developer+%7C+Musician;Curious+about+things+%3A))](https://git.io/typing-svg" alt="Typing SVG" />
 </h1>
 
 ## 👨🏾‍💻 About Me
