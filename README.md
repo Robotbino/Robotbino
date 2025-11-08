@@ -49,7 +49,7 @@ I was learning how to implement it with JWT authentication for security and auth
 This is the frontend of my Employee Manager Application built in Angular.  
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, API integration   
-🔗 [View Repository]([https://github.com/Robotbino/CodePairs.git](https://github.com/Robotbino/EmployeeManager-Application.git))
+🔗 [View Repository](https://github.com/Robotbino/CodePairs.git](https://github.com/Robotbino/EmployeeManager-Application.git))
 
 🌆 **Project 3: Code Pairs Memory Game(In Progress)**  
 This is a basic Angular approach to a classical Memory game, with flipping cards and updating
