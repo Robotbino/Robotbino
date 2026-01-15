@@ -64,6 +64,7 @@ player stats and keeping record of player info.
 This is a simple meme Generator app built in react. Allows users to fecth meme images from
 the imageflip API and allows users to create their own memesm, spreading smiled all over the
 net.
+
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, React patters, functional programming  
 🔗 [View Repository](https://github.com/Robotbino/MemeGenerator.git)
