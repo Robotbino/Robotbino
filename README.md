@@ -66,5 +66,5 @@ the imageflip API and allows users to create their own memesm, spreading smiled 
 net.
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, React patters, functional programming  
-🔗 [View Repository]()
+🔗 [View Repository](https://github.com/Robotbino/MemeGenerator.git)
 
