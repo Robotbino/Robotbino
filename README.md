@@ -60,4 +60,11 @@ player stats and keeping record of player info.
 📌 *Focus:* user interface, Angular design, CSS  
 🔗 [View Repository](https://github.com/Robotbino/CodePairs)
 
+🤣 **Project 4: Meme Generator**  
+This is a simple meme Generator app built in react. Allows users to fecth meme images from
+the imageflip API and allows users to create their own memesm, spreading smiled all over the
+net.
+🔧 *Tech Stack:* HTML, CSS, TypeScript  
+📌 *Focus:* user interface, React patters, functional programming  
+🔗 [View Repository]()
 
