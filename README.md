@@ -68,3 +68,11 @@ net.
 📌 *Focus:* user interface, React patters, functional programming  
 🔗 [View Repository](https://github.com/Robotbino/MemeGenerator.git)
 
+🎮 **Project 5: Game Store(In progess)**
+This is a more complex react app, I am trying to build a game Store that imitates the design
+of the famous Epic Games launcher. At the moment my focus is the front end as I am still familiarizing
+myself with react apps and functional programming.
+🔧 *Tech Stack:* HTML, CSS, TypeScript  
+📌 *Focus:* user interface, React patters, functional programming  
+🔗 [View Repository]()
+
