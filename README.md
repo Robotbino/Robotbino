@@ -60,17 +60,4 @@ player stats and keeping record of player info.
 📌 *Focus:* user interface, Angular design, CSS  
 🔗 [View Repository](https://github.com/Robotbino/CodePairs)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robotbino&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robotbino&theme=radical" />
-</p>
 
