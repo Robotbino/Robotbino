@@ -74,5 +74,5 @@ of the famous Epic Games launcher. At the moment my focus is the front end as I 
 myself with react apps and functional programming.
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
 📌 *Focus:* user interface, React patters, functional programming  
-🔗 [View Repository]()
+🔗 [View Repository](https://github.com/Robotbino/gameStore.git)
 
