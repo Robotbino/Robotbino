@@ -62,15 +62,15 @@ player stats and keeping record of player info.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robotbino&theme=radical&margin-w=15&row=2&column=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robotbino&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robotbino&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robotbino&theme=radical" />
 </p>
 
