@@ -64,13 +64,13 @@ player stats and keeping record of player info.
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Robotbino&theme=radical&margin-w=15&row=2&column=3" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robotbino&show_icons=true&theme=radical" />
 </p>
 
