@@ -53,7 +53,7 @@ This is the frontend of my Employee Manager Application built in Angular.
 📌 *Focus:* user interface, API integration   
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application-Frontend.git)
 
-🌆 **Project 3: Code Pairs Memory Game(In Progress)**  
+🌆 **Project 3: Code Pairs Memory Game**  
 This is a basic Angular approach to a classical Memory game, with flipping cards and updating
 player stats and keeping record of player info.  
 🔧 *Tech Stack:* HTML, CSS, TypeScript  
