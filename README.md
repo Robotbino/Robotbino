@@ -7,10 +7,10 @@
 </h1>
 
 ## 👨🏾‍💻 About Me
-- 🎓 Graduated at North West University Vaal Campus in 2023
-- 💡 Passionate about writing clean code, listening and making music as well as watching anime🗡️
-- 🔭 Currently learning React
-- 💬 I enjoy playing soccer, binge watching anime, writing clean code, and reading
+-  Graduated at North West University Vaal Campus in 2023
+-  Passionate about writing clean code, listening and making music as well as watching anime🗡️
+-  Currently learning React
+- I enjoy playing soccer, binge watching anime, writing clean code, and reading
 
 ---
 
@@ -39,42 +39,42 @@
 ---
 
 ## 📂 Featured Projects
-🏨 **Project 1: EmployeeManager-Application**  
+**Project 1: EmployeeManager-Application**  
 This is a simple implementation of CRUD principles using the SpringBoot framework.This implemetion is particularly interesting
 I was learning how to implement it with JWT authentication for security and authourization.  
-🔧 *Tech Stack:* Java, SpringBoot, MySql  
-📌 *Focus:* database design, validation logic, user authentication.  
+*Tech Stack:* Java, SpringBoot, MySql  
+*Focus:* database design, validation logic, user authentication.  
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application.git)
 
 
-⚗️ **Project 2: EmployeeManager-Application-Frontend**  
+**Project 2: EmployeeManager-Application-Frontend**  
 This is the frontend of my Employee Manager Application built in Angular.  
-🔧 *Tech Stack:* HTML, CSS, TypeScript  
-📌 *Focus:* user interface, API integration   
+*Tech Stack:* HTML, CSS, TypeScript  
+*Focus:* user interface, API integration   
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application-Frontend.git)
 
-🌆 **Project 3: Code Pairs Memory Game**  
+**Project 3: Code Pairs Memory Game**  
 This is a basic Angular approach to a classical Memory game, with flipping cards and updating
 player stats and keeping record of player info.  
-🔧 *Tech Stack:* HTML, CSS, TypeScript  
-📌 *Focus:* user interface, Angular design, CSS  
+*Tech Stack:* HTML, CSS, TypeScript  
+*Focus:* user interface, Angular design, CSS  
 🔗 [View Repository](https://github.com/Robotbino/CodePairs)
 
-🤣 **Project 4: Meme Generator**  
+**Project 4: Meme Generator**  
 This is a simple meme Generator app built in react. Allows users to fecth meme images from
 the imageflip API and allows users to create their own memesm, spreading smiled all over the
 net.
 
-🔧 *Tech Stack:* HTML, CSS, TypeScript  
-📌 *Focus:* user interface, React patters, functional programming  
+*Tech Stack:* HTML, CSS, TypeScript  
+*Focus:* user interface, React patters, functional programming  
 🔗 [View Repository](https://github.com/Robotbino/MemeGenerator.git)
 
-🎮 **Project 5: Game Store(In progess)**
+**Project 5: Game Store(In progess)**
 This is a more complex react app, I am trying to build a game Store that imitates the design
 of the famous Epic Games launcher. At the moment my focus is the front end as I am still familiarizing
 myself with react apps and functional programming.
 
-🔧 *Tech Stack:* HTML, CSS, TypeScript  
-📌 *Focus:* user interface, React patters, functional programming  
+*Tech Stack:* HTML, CSS, TypeScript  
+*Focus:* user interface, React patters, functional programming  
 🔗 [View Repository](https://github.com/Robotbino/gameStore.git)
 
