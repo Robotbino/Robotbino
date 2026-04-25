@@ -49,7 +49,7 @@ I was learning how to implement it with JWT authentication for security and auth
 
 **Project 2: EmployeeManager-Application-Frontend**  
 This is the frontend of my Employee Manager Application built in Angular.  
-*Tech Stack:* HTML, CSS, TypeScript  
+*Tech Stack:* HTML, CSS, TypeScript , Angular
 *Focus:* user interface, API integration   
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application-Frontend.git)
 
