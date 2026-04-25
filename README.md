@@ -49,8 +49,8 @@ I was learning how to implement it with JWT authentication for security and auth
 
 **Project 2: EmployeeManager-Application-Frontend**  
 This is the frontend of my Employee Manager Application built in Angular.  
-*Tech Stack:* HTML, CSS, TypeScript , Angular
-*Focus:* user interface, API integration   
+*Tech Stack:* HTML, CSS, TypeScript 
+*Focus:* user interface, API integration, Angular   
 🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application-Frontend.git)
 
 **Project 3: Code Pairs Memory Game**  
