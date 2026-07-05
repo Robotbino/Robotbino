@@ -1,80 +1,103 @@
-<!-- 🌸 GITHUB PROFILE README TEMPLATE 🌸 -->
-<!-- Created by Bino Hlongwana | https://github.com/Tha-ndo-kuhle -->
+<!-- GitHub Profile README — Bino Hlongwana | github.com/Robotbino -->
 
-<!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&size=28&pause=1000&color=DFB11C&width=435&lines=Hi%2C+my+name+is+Bino;Software+Developer+%7C+Musician;Curious+about+things+%3A+)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&size=28&pause=1000&color=DFB11C&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Bino;Software+Developer+%7C+Musician;Curious+about+things+%3A+)" alt="Hi, my name is Bino — Software Developer | Musician" />
 </h1>
 
 ## 👨🏾‍💻 About Me
--  Graduated at North West University Vaal Campus in 2023
--  Passionate about writing clean code, listening and making music as well as watching anime🗡️
--  Currently trying to get Java Certified.
-- I enjoy playing soccer, binge watching anime, writing clean code, and reading
 
----
-
-## 🧰 Tech & Tools
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
----
+- Full-stack developer — enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
+- 🎓 BSc Information Technology, North-West University (2023)
+- 📜 Working toward my Oracle Java certification (OCA) and AWS Cloud Practitioner
+- 🎶 Off the keyboard: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
 
 ## 📬 Connect With Me
-<p align="left">
-  <a href="www.linkedin.com/in/bino-hlongwana-162226272" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+<p>
+  <a href="https://www.linkedin.com/in/bino-hlongwana-162226272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="Hlongwanabino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:Hlongwanabino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
+## 🧰 Tech & Tools
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
 ## 📂 Featured Projects
-**Project 1: EmployeeManager-Application**  
-This is a simple implementation of CRUD principles using the SpringBoot framework.This implemetion is particularly interesting
-I was learning how to implement it with JWT authentication for security and authourization.  
-*Tech Stack:* Java, SpringBoot, MySql  
-*Focus:* database design, validation logic, user authentication.  
-🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application.git)
 
+### 🗂️ Employee Manager — full-stack CRUD with JWT auth
+Spring Boot REST API + Angular front end for managing employee records. The interesting part was getting stateless auth right: issuing and validating JWTs on the API, then wiring up HTTP interceptors and route guards so protected routes on the Angular side actually stay protected.
 
-**Project 2: EmployeeManager-Application-Frontend**  
-This is the frontend of my Employee Manager Application built in Angular.  
-*Tech Stack:* HTML, CSS, TypeScript 
-*Focus:* user interface, API integration, Angular   
-🔗 [View Repository](https://github.com/Robotbino/EmployeeManager-Application-Frontend.git)
+**Stack:** Java · Spring Boot · Spring Security · JWT · MySQL · Angular  
+🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
 
-**Project 3: Code Pairs Memory Game**  
-This is a basic Angular approach to a classical Memory game, with flipping cards and updating
-player stats and keeping record of player info.  
-*Tech Stack:* HTML, CSS, TypeScript  
-*Focus:* user interface, Angular design, CSS  
-🔗 [View Repository](https://github.com/Robotbino/CodePairs)
+### 🎮 Game Store *(in progress)*
+A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app — a Spring Boot API with JWT auth and role-based access coming in behind the front end.
 
-**Project 4: Meme Generator**  
-This is a simple meme Generator app built in react. Allows users to fecth meme images from
-the imageflip API and allows users to create their own memesm, spreading smiled all over the
-net.
+**Stack:** React · Spring Boot · JWT  
+🔗 [Repository](https://github.com/Robotbino/gameStore)
 
-*Tech Stack:* HTML, CSS, TypeScript  
-*Focus:* user interface, React patters, functional programming  
-🔗 [View Repository](https://github.com/Robotbino/MemeGenerator.git)
+### 🃏 Code Pairs — memory card game
+Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small — the point was clean component state and CSS animation work, not scope.
 
-**Project 5: Game Store(In progess)**
-This is a more complex react app, I am trying to build a game Store that imitates the design
-of the famous Epic Games launcher. At the moment my focus is the front end as I am still familiarizing
-myself with react apps and functional programming.
+**Stack:** Angular · TypeScript · CSS  
+🔗 [Repository](https://github.com/Robotbino/CodePairs)
 
-*Tech Stack:* HTML, CSS, TypeScript  
-*Focus:* user interface, React patters, functional programming  
-🔗 [View Repository](https://github.com/Robotbino/gameStore.git)
+### 😄 Meme Generator
+React app that pulls templates from the Imgflip API and lets users caption their own memes. Built while getting comfortable with hooks, controlled inputs and fetching from an external API.
 
+**Stack:** React · CSS · Imgflip API  
+🔗 [Repository](https://github.com/Robotbino/MemeGenerator)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robotbino&theme=github-dark&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robotbino/Robotbino/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robotbino/Robotbino/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Robotbino/Robotbino/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
