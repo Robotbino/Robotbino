@@ -9,7 +9,7 @@
 - Full-stack developer — enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
 - 🎓 BSc Information Technology, North-West University (2023)
 - 📜 Working toward my Oracle Java certification (OCA) and AWS Cloud Practitioner
-- 🎶 Off the keyboard: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
+- 🎶 Side Quests: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
 
 ## 📬 Connect With Me
 
