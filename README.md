@@ -66,7 +66,7 @@ Spring Boot REST API + Angular front end for managing employee records. The inte
 **Stack:** Java · Spring Boot · Spring Security · JWT · MySQL · Angular  
 🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
 
-### 🎮 Game Store *(in progress)*
+### 🎮 Game Store
 A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app — a Spring Boot API with JWT auth and role-based access coming in behind the front end.
 
 **Stack:** React · Spring Boot · JWT  
