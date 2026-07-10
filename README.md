@@ -76,13 +76,13 @@ A storefront modeled on the Epic Games launcher. Started as a React UI exercise 
 Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small — the point was clean component state and CSS animation work, not scope.
 
 **Stack:** Angular · TypeScript · CSS  
-🔗 [Repository](https://github.com/Robotbino/CodePairs)
+🔗 [Repository](https://github.com/Robotbino/CodePairs) · [Live Demo](https://codepairsgame.netlify.app/)
 
-### 😄 Meme Generator
-React app that pulls templates from the Imgflip API and lets users caption their own memes. Built while getting comfortable with hooks, controlled inputs and fetching from an external API.
+### 🧑‍💻 Personal Portfolio
+My developer portfolio — a hub for who I am, the stack I work in and the projects I'm most proud of. Built as a clean, responsive single-page site and deployed on Netlify.
 
-**Stack:** React · CSS · Imgflip API  
-🔗 [Repository](https://github.com/Robotbino/MemeGenerator)
+**Stack:** Angular · TypeScript · CSS  
+🔗 [Repository](https://github.com/Robotbino/PorfolioWebsite) · [Live Demo](https://binohlongwana.netlify.app/)
 
 ---
 
