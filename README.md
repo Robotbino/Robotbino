@@ -70,7 +70,7 @@ Spring Boot REST API + Angular front end for managing employee records. The inte
 A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app — a Spring Boot API with JWT auth and role-based access coming in behind the front end.
 
 **Stack:** React · Spring Boot · JWT  
-🔗 [Repository](https://github.com/Robotbino/gameStore)
+🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore)
 
 ### 🃏 Code Pairs — memory card game
 Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small — the point was clean component state and CSS animation work, not scope.
