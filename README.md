@@ -67,19 +67,19 @@ Spring Boot REST API + Angular front end for managing employee records. The inte
 🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
 
 ### 🎮 Game Store
-A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app — a Spring Boot API with JWT auth and role-based access coming in behind the front end.
+A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app - a Spring Boot API with JWT auth and role-based access coming in behind the front end.
 
 **Stack:** React · Spring Boot · JWT  
 🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore)
 
-### 🃏 Code Pairs — memory card game
-Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small — the point was clean component state and CSS animation work, not scope.
+### 🃏 Code Pairs - memory card game
+Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small - the point was clean component state and CSS animation work, not scope.
 
 **Stack:** Angular · TypeScript · CSS  
 🔗 [Repository](https://github.com/Robotbino/CodePairs) · [Live Demo](https://codepairsgame.netlify.app/)
 
 ### 🧑‍💻 Personal Portfolio
-My developer portfolio — a hub for who I am, the stack I work in and the projects I'm most proud of. Built as a clean, responsive single-page site and deployed on Netlify.
+My developer portfolio - a hub for who I am, the stack I work in and the projects I'm most proud of. Built as a clean, responsive single-page site and deployed on Netlify.
 
 **Stack:** Angular · TypeScript · CSS  
 🔗 [Repository](https://github.com/Robotbino/PorfolioWebsite) · [Live Demo](https://binohlongwana.netlify.app/)
