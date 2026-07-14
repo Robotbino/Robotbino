@@ -6,7 +6,7 @@
 
 ## 👨🏾‍💻 About Me
 
-- Full-stack developer — enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
+- Full-stack developer - enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
 - 🎓 BSc Information Technology, North-West University (2023)
 - 📜 Working toward my Oracle Java certification (OCA) and AWS Cloud Practitioner
 - 🎶 Side Quests: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
@@ -60,7 +60,7 @@
 
 ## 📂 Featured Projects
 
-### 🗂️ Employee Manager — full-stack CRUD with JWT auth
+### 🗂️ Employee Manager - full-stack CRUD with JWT auth
 Spring Boot REST API + Angular front end for managing employee records. The interesting part was getting stateless auth right: issuing and validating JWTs on the API, then wiring up HTTP interceptors and route guards so protected routes on the Angular side actually stay protected.
 
 **Stack:** Java · Spring Boot · Spring Security · JWT · MySQL · Angular  
