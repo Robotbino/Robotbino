@@ -50,7 +50,7 @@
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker,netlify" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Docker, Netlify" /></a>
 
-<sub>Powered by coffee, curiosity, and the occasional anime opening on loop ☕</sub>
+
 
 ---
 
