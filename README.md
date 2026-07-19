@@ -29,36 +29,26 @@
 
 ## 🧰 Tech & Tools
 
-<table align="center">
+<table>
   <tr>
-    <td align="right"><b>💻&nbsp;&nbsp;Languages</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a>
-    </td>
+    <td valign="center"><b>💻&nbsp; Languages</b></td>
+    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a></td>
   </tr>
   <tr>
-    <td align="right"><b>🎨&nbsp;&nbsp;Frontend</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap" alt="Angular, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap" /></a>
-    </td>
+    <td valign="center"><b>🎨&nbsp; Frontend</b></td>
+    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap" alt="Angular, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap" /></a></td>
   </tr>
   <tr>
-    <td align="right"><b>⚙️&nbsp;&nbsp;Backend&nbsp;&amp;&nbsp;Data</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,flask,fastapi,scikitlearn,mysql,postgres,sqlite,firebase" alt="Spring Boot, Flask, FastAPI, scikit-learn, MySQL, PostgreSQL, SQLite, Firebase" /></a>
-    </td>
+    <td valign="center"><b>⚙️&nbsp; Backend &amp; Data</b></td>
+    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=spring,flask,fastapi,scikitlearn,mysql,postgres,sqlite,firebase" alt="Spring Boot, Flask, FastAPI, scikit-learn, MySQL, PostgreSQL, SQLite, Firebase" /></a></td>
   </tr>
   <tr>
-    <td align="right"><b>☁️&nbsp;&nbsp;Cloud&nbsp;&amp;&nbsp;DevOps</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,docker,git,github,maven,netlify" alt="Azure, Docker, Git, GitHub, Maven, Netlify" /></a>
-    </td>
+    <td valign="center"><b>☁️&nbsp; Cloud &amp; DevOps</b></td>
+    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=azure,docker,git,github,maven,netlify" alt="Azure, Docker, Git, GitHub, Maven, Netlify" /></a></td>
   </tr>
   <tr>
-    <td align="right"><b>🛠️&nbsp;&nbsp;Workbench</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman" alt="IntelliJ IDEA, VS Code, Android Studio, Postman" /></a>
-    </td>
+    <td valign="center"><b>🛠️&nbsp; Workbench</b></td>
+    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman" alt="IntelliJ IDEA, VS Code, Android Studio, Postman" /></a></td>
   </tr>
 </table>
 
