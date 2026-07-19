@@ -29,28 +29,30 @@
 
 ## 🧰 Tech & Tools
 
-<table>
-  <tr>
-    <td valign="center"><b>💻&nbsp; Languages</b></td>
-    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a></td>
-  </tr>
-  <tr>
-    <td valign="center"><b>🎨&nbsp; Frontend</b></td>
-    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap" alt="Angular, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap" /></a></td>
-  </tr>
-  <tr>
-    <td valign="center"><b>⚙️&nbsp; Backend &amp; Data</b></td>
-    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=spring,flask,fastapi,scikitlearn,mysql,postgres,sqlite,firebase" alt="Spring Boot, Flask, FastAPI, scikit-learn, MySQL, PostgreSQL, SQLite, Firebase" /></a></td>
-  </tr>
-  <tr>
-    <td valign="center"><b>☁️&nbsp; Cloud &amp; DevOps</b></td>
-    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=azure,docker,git,github,maven,netlify" alt="Azure, Docker, Git, GitHub, Maven, Netlify" /></a></td>
-  </tr>
-  <tr>
-    <td valign="center"><b>🛠️&nbsp; Workbench</b></td>
-    <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman" alt="IntelliJ IDEA, VS Code, Android Studio, Postman" /></a></td>
-  </tr>
-</table>
+<div align="center">
+
+<b>💻 Languages</b>
+<br/>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a>
+<br/><br/>
+
+<b>🎨 Frontend</b>
+<br/>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" alt="Angular, React, HTML5, CSS3, Bootstrap" /></a>
+<br/><br/>
+
+<b>⚙️ Backend &amp; Database</b>
+<br/>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot, MySQL" /></a>
+<br/>
+<sub>➕ Spring Security · JWT</sub>
+<br/><br/>
+
+<b>🛠️ Tools &amp; Platforms</b>
+<br/>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker,netlify" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Docker, Netlify" /></a>
+
+</div>
 
 <p align="center">
   <sub>Powered by coffee, curiosity, and the occasional anime opening on loop ☕</sub>
