@@ -29,8 +29,6 @@
 
 ## 🧰 Tech & Tools
 
-<div align="center">
-
 <b>💻 Languages</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a>
@@ -52,38 +50,34 @@
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker,netlify" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Docker, Netlify" /></a>
 
-</div>
-
-<p align="center">
-  <sub>Powered by coffee, curiosity, and the occasional anime opening on loop ☕</sub>
-</p>
+<sub>Powered by coffee, curiosity, and the occasional anime opening on loop ☕</sub>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🗂️ Employee Manager - full-stack CRUD with JWT auth
-Spring Boot REST API + Angular front end for managing employee records. The interesting part was getting stateless auth right: issuing and validating JWTs on the API, then wiring up HTTP interceptors and route guards so protected routes on the Angular side actually stay protected.
+### 🎮 GameStore - full-stack storefront with an admin portal
+A game storefront inspired by the Epic Games launcher, grown from a React UI exercise into a working full-stack MVP. Customers register, browse with live search, view game detail pages and build a personal library; a separate admin portal handles full CRUD for games and users. Behind it all sits a Spring Boot API with JWT auth, USER/ADMIN roles and stateless sessions - the whole architecture is documented with Mermaid diagrams in the repo.
 
-**Stack:** Java · Spring Boot · Spring Security · JWT · MySQL · Angular  
-🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
-
-### 🎮 Game Store
-A storefront modeled on the Epic Games launcher. Started as a React UI exercise and is growing into a full-stack app - a Spring Boot API with JWT auth and role-based access coming in behind the front end.
-
-**Stack:** React · Spring Boot · JWT  
+**Stack:** React 19 · TypeScript · Vite · Spring Boot · Spring Security · JWT · MySQL  
 🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore)
 
-### 🃏 Code Pairs - memory card game
-Classic card-matching game built in Angular: flip animations, move tracking and player stats. Deliberately small - the point was clean component state and CSS animation work, not scope.
+### 🗂️ Employee Manager - full-stack CRUD with JWT auth
+Spring Boot REST API + Angular front end for managing employee records. The interesting part was getting stateless auth right: issuing and validating JWTs on the API, then wiring up HTTP interceptors and route guards so protected routes on the Angular side actually stay protected. Comes with an architecture & MVP roadmap doc.
 
-**Stack:** Angular · TypeScript · CSS  
+**Stack:** Java 17 · Spring Boot · Spring Security 6 · JWT · MySQL · Angular  
+🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
+
+### 🃏 Code Pairs - memory card game
+Code-themed card-matching game, recently rebuilt on Angular's standalone components + Signals architecture. Pick a difficulty, flip cards to find matching pairs, and watch your score and remaining attempts - all wrapped in a brutalist design language with 3D CSS flip animations.
+
+**Stack:** Angular · Signals · TypeScript · CSS  
 🔗 [Repository](https://github.com/Robotbino/CodePairs) · [Live Demo](https://codepairsgame.netlify.app/)
 
 ### 🧑‍💻 Personal Portfolio
-My developer portfolio - a hub for who I am, the stack I work in and the projects I'm most proud of. Built as a clean, responsive single-page site and deployed on Netlify.
+My developer portfolio, built as an immersive experience rather than a static page: the five sections form a seamless scroll loop (no router), floating over a WebGL aurora shader with a constellation that morphs as you travel. Every major design decision is recorded as an ADR, and the repo ships an interactive onboarding guide.
 
-**Stack:** Angular · TypeScript · CSS  
+**Stack:** Angular 19 · Signals · TypeScript · OGL (WebGL) · CSS  
 🔗 [Repository](https://github.com/Robotbino/PorfolioWebsite) · [Live Demo](https://binohlongwana.netlify.app/)
 
 ---
