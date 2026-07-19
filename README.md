@@ -8,7 +8,7 @@
 
 - Full-stack developer - enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
 - 🎓 BSc Information Technology, North-West University (2023)
-- 📜 Working toward my Oracle Java certification (OCA) and AWS Cloud Practitioner
+- 📜 Certified: IBM AI Fundamentals · Anthropic Claude 101 & Claude Code 101 · Scrimba JavaScript & HTML/CSS
 - 🎶 Side Quests: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
 
 ## 📬 Connect With Me
@@ -20,41 +20,51 @@
   <a href="mailto:Hlongwanabino@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://binohlongwana.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-DFB11C?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ## 🧰 Tech & Tools
 
-**Frontend**
+<table align="center">
+  <tr>
+    <td align="right"><b>💻&nbsp;&nbsp;Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎨&nbsp;&nbsp;Frontend</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,bootstrap" alt="Angular, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️&nbsp;&nbsp;Backend&nbsp;&amp;&nbsp;Data</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,flask,fastapi,scikitlearn,mysql,postgres,sqlite,firebase" alt="Spring Boot, Flask, FastAPI, scikit-learn, MySQL, PostgreSQL, SQLite, Firebase" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️&nbsp;&nbsp;Cloud&nbsp;&amp;&nbsp;DevOps</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,docker,git,github,maven,netlify" alt="Azure, Docker, Git, GitHub, Maven, Netlify" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🛠️&nbsp;&nbsp;Workbench</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman" alt="IntelliJ IDEA, VS Code, Android Studio, Postman" /></a>
+    </td>
+  </tr>
+</table>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <sub>Powered by coffee, curiosity, and the occasional anime opening on loop ☕</sub>
+</p>
 
 ---
 
