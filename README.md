@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&size=28&pause=1000&color=DFB11C&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Bino;Software+Developer+%7C+Musician;Curious+about+things+%3A+)" alt="Hi, my name is Bino — Software Developer | Musician" />
 </h1>
 
-## 👨🏾‍💻 About Me
+## About Me
 
 - Full-stack developer - enterprise Java web applications by day, Spring Boot / Angular / React projects after hours
-- 🎓 BSc Information Technology, North-West University (2023)
-- 📜 Certified: IBM AI Fundamentals · Anthropic Claude 101 & Claude Code 101 · Scrimba JavaScript & HTML/CSS
-- 🎶 Side Quests: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
+- BSc Information Technology, North-West University (2023)
+- Certified: IBM AI Fundamentals · Anthropic Claude 101 & Claude Code 101 · Scrimba JavaScript & HTML/CSS
+- Side Quests: making and listening to music, playing soccer, reading, and binge-watching anime 🗡️
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/bino-hlongwana-162226272" target="_blank">
@@ -27,19 +27,19 @@
 
 ---
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
-<b>💻 Languages</b>
+<b>Languages</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript, JavaScript" /></a>
 <br/><br/>
 
-<b>🎨 Frontend</b>
+<b> Frontend</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" alt="Angular, React, HTML5, CSS3, Bootstrap" /></a>
 <br/><br/>
 
-<b>⚙️ Backend &amp; Database</b>
+<b> Backend &amp; Database</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot, MySQL" /></a>
 <br/>
