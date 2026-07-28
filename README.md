@@ -74,7 +74,7 @@ Code-themed card-matching game, recently rebuilt on Angular's standalone compone
 **Stack:** Angular · Signals · TypeScript · CSS  
 🔗 [Repository](https://github.com/Robotbino/CodePairs) · [Live Demo](https://codepairsgame.netlify.app/)
 
-### 🧑‍💻 Personal Portfolio
+### Personal Portfolio
 My developer portfolio, built as an immersive experience rather than a static page: the five sections form a seamless scroll loop (no router), floating over a WebGL aurora shader with a constellation that morphs as you travel. Every major design decision is recorded as an ADR, and the repo ships an interactive onboarding guide.
 
 **Stack:** Angular 19 · Signals · TypeScript · OGL (WebGL) · CSS  
