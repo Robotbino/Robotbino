@@ -62,13 +62,13 @@ A game storefront inspired by the Epic Games launcher, grown from a React UI exe
 **Stack:** React 19 · TypeScript · Vite · Spring Boot · Spring Security · JWT · MySQL  
 🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore)
 
-### 🗂️ Employee Manager - full-stack CRUD with JWT auth
+### Employee Management System - full-stack CRUD with JWT auth
 Spring Boot REST API + Angular front end for managing employee records. The interesting part was getting stateless auth right: issuing and validating JWTs on the API, then wiring up HTTP interceptors and route guards so protected routes on the Angular side actually stay protected. Comes with an architecture & MVP roadmap doc.
 
 **Stack:** Java 17 · Spring Boot · Spring Security 6 · JWT · MySQL · Angular  
 🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
 
-### 🃏 Code Pairs - memory card game
+### Code Pairs - memory card game
 Code-themed card-matching game, recently rebuilt on Angular's standalone components + Signals architecture. Pick a difficulty, flip cards to find matching pairs, and watch your score and remaining attempts - all wrapped in a brutalist design language with 3D CSS flip animations.
 
 **Stack:** Angular · Signals · TypeScript · CSS  
