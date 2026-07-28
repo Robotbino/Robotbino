@@ -82,13 +82,13 @@ My developer portfolio, built as an immersive experience rather than a static pa
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robotbino&theme=github-dark&hide_border=true" alt="Contribution activity graph" />
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
