@@ -23,7 +23,7 @@
   <a href="https://binohlongwana.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DFB11C?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
   </a>
-</p>
+</p> 
 
 ---
 
