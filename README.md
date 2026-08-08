@@ -8,7 +8,7 @@
 
 I write enterprise Java web applications during the day, the kind with long-lived business rules, workflow engines and a QA process behind every release. After hours I build the other half of the stack: Spring Boot APIs and Angular/React front ends.
 
-That split is deliberate. Work taught me how software survives in production. My own projects are where I go deep on the modern stack — stateless JWT auth, Angular Signals, WebGL — and then write down *why* I chose what I chose.
+That split is deliberate. Work taught me how software survives in production. My own projects are where I go deep on the modern stack, stateless JWT auth, Angular Signals, WebGL and then write down *why* I chose what I chose.
 
 - 🎓 BSc Information Technology, North-West University (2023)
 - 📜 IBM AI Fundamentals · Anthropic Claude 101 & Claude Code 101 · Scrimba JavaScript & HTML/CSS
