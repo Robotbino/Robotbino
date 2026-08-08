@@ -6,7 +6,7 @@
 
 ## About Me
 
-I write enterprise Java web applications during the day — the kind with long-lived business rules, workflow engines and a QA process behind every release. After hours I build the other half of the stack: Spring Boot APIs and Angular/React front ends where I own every decision, from the auth model to the last CSS keyframe.
+I write enterprise Java web applications during the day, the kind with long-lived business rules, workflow engines and a QA process behind every release. After hours I build the other half of the stack: Spring Boot APIs and Angular/React front ends where I own every decision, from the auth model to the last CSS keyframe.
 
 That split is deliberate. Work taught me how software survives in production. My own projects are where I go deep on the modern stack — stateless JWT auth, Angular Signals, WebGL — and then write down *why* I chose what I chose.
 
