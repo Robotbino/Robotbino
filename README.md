@@ -56,7 +56,6 @@ That split is deliberate. Work taught me how software survives in production. My
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker,netlify" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Docker, Netlify" /></a>
 
 
-
 ---
 
 ## 📂 Featured Projects
