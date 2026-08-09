@@ -133,7 +133,7 @@ A code-themed card matching game that I tore down and rebuilt on Angular's stand
 
 ### 🌌 Personal Portfolio: an cool Awwwards.com themed site
 
-I didn't want a résumé with a nav bar. This one is a single continuous scroll: five destinations that wrap into a seamless loop, floating over a WebGL aurora.
+I didn't want a résumé with a nav bar,that's boring. This one is a single continuous scroll: five destinations that wrap into a seamless loop, floating over a WebGL aurora.
 
 - **No router.** The whole site is one scroll loop with a cloned first section at the end, so reaching the bottom wraps back to the top without a jump or a route change.
 - **WebGL aurora shader** rendered with OGL, plus a constellation that morphs between the four route shapes as you travel — driven by a shared viewport-observer service rather than a dozen loose IntersectionObservers.
