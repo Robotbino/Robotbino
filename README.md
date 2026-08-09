@@ -69,7 +69,7 @@ That split is deliberate. Work taught me how software survives in production. My
 
 <br/>
 
-### 🎮 GameStore — storefront and admin portal, end to end
+### 🎮 GameStore: storefront and admin portal, end to end
 
 Started as a React UI exercise. I kept asking what an actual store needs behind the pretty grid, and it turned into a full-stack MVP.
 
@@ -91,7 +91,7 @@ Started as a React UI exercise. I kept asking what an actual store needs behind 
 
 ---
 
-### 👔 Employee Management System — stateless auth across two apps
+### 👔 Employee Management System: stateless auth across two apps
 
 Plenty of tutorials stop at "login works". I built this one to find out where token-based auth actually leaks: the seam between an API that trusts nothing and a client that has to remember everything.
 
@@ -112,7 +112,7 @@ Plenty of tutorials stop at "login works". I built this one to find out where to
 
 ---
 
-### 🃏 Code Pairs — a memory game, rebuilt to learn Signals
+### 🃏 Code Pairs: a memory game, rebuilt to learn Signals
 
 A code-themed card matching game that I tore down and rebuilt on Angular's standalone components and Signals — the rewrite was the point.
 
@@ -131,7 +131,7 @@ A code-themed card matching game that I tore down and rebuilt on Angular's stand
 
 ---
 
-### 🌌 Personal Portfolio — an experience, not a page
+### 🌌 Personal Portfolio: an cool Awwwards.com themed site
 
 I didn't want a résumé with a nav bar. This one is a single continuous scroll: five destinations that wrap into a seamless loop, floating over a WebGL aurora.
 
