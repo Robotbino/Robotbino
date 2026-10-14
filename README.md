@@ -1,18 +1,23 @@
 <!-- GitHub Profile README — Bino Hlongwana | github.com/Robotbino -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&size=28&pause=1000&color=DFB11C&center=true&vCenter=true&width=520&lines=Hi%2C+my+name+is+Bino;Full-Stack+Developer+%7C+Musician;Curious+about+things+%3A+)" alt="Hi, my name is Bino — Full-Stack Developer | Musician" />
+  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&size=28&pause=1000&color=DFB11C&center=true&vCenter=true&width=520&lines=Hi%2C+my+name+is+Bino;Full-Stack+Developer+%7C+Musician;Open+to+full-stack+roles;Curious+about+things+%3A+)" alt="Hi, my name is Bino — Full-Stack Developer | Musician — Open to full-stack roles" />
 </h1>
 
 <p align="center">
-  <b>Full-stack developer in Pretoria, South Africa.</b><br/>
+  <b>Full-stack developer in Pretoria, South Africa, open to full-stack roles.</b><br/>
   Enterprise Java by day · Spring Boot + Angular/React after hours · tests, docs and trade-offs included.
 </p>
 
 <p align="center">
+  <a href="mailto:Hlongwanabino@gmail.com?subject=Full-stack%20role"><img src="https://img.shields.io/badge/Open_to_full--stack_roles-DFB11C?style=for-the-badge&logoColor=black" alt="Open to full-stack roles" /></a>
   <a href="https://binohlongwana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-DFB11C?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bino-hlongwana-162226272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:Hlongwanabino@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <sub>Hiring? <a href="mailto:Hlongwanabino@gmail.com?subject=Full-stack%20role">Email me</a> or find me on <a href="https://www.linkedin.com/in/bino-hlongwana-162226272">LinkedIn</a>. Every project below has its code, docs and known limitations in the open.</sub>
 </p>
 
 ## 👋 About Me
@@ -29,7 +34,8 @@ That split is deliberate. Work taught me how software survives in production. My
 
 ## 🔭 Right Now
 
-- 🔨 **Shipping:** taking GameStore from localhost to live. Docker, a production profile and CI on every push come first, then a public deploy.
+- 🔨 **Shipping:** taking GameStore from localhost to live. Docker and a production profile first, then the API on an Oracle Cloud Always-Free VM and the UI on Cloudflare Pages, then CI on every push. On my own maturity ladder it sits at stage 0 of 3: local and feature-complete, with deployability the next gap.
+- 🚧 **Building:** [a React 19 + Vite weather app](https://github.com/Robotbino/weatherApp). The UI shell is laid out; wiring in a live weather API is the next commit.
 - 📚 **Studying:** AWS Certified Cloud Practitioner · Oracle Certified Associate, Java SE 8 Programmer (1Z0-808)
 - 🤖 **Next up:** AI engineering in Java, starting with retrieval-augmented generation (RAG), and running LLMs locally with Ollama.
 
@@ -39,33 +45,33 @@ That split is deliberate. Work taught me how software survives in production. My
 
 <b>Languages</b>
 <br/>
-<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=java,ts,js,python" alt="Java, TypeScript, JavaScript, Python" /></a>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=java,ts,js,python,cs" alt="Java, TypeScript, JavaScript, Python, C#" /></a>
 <br/><br/>
 
 <b>Frontend</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=angular,react,html,css,sass,vite,bootstrap" alt="Angular, React, HTML5, CSS3, Sass, Vite, Bootstrap" /></a>
 <br/>
-<sub>➕ Angular Signals · RxJS · React Router · WebGL (OGL)</sub>
+<sub>➕ Angular Signals · RxJS · React Router · WebGL (OGL) · GLSL</sub>
 <br/><br/>
 
 <b>Backend &amp; Data</b>
 <br/>
-<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=spring,hibernate,mysql" alt="Spring Boot, Hibernate, MySQL" /></a>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=spring,hibernate,mysql,dotnet" alt="Spring Boot, Hibernate, MySQL, .NET" /></a>
 <br/>
-<sub>➕ Spring Security · JWT · Spring Data JPA · Flyway · Java EE · Oracle SQL</sub>
+<sub>➕ Spring Security · JWT · Spring Data JPA · Flyway · Java EE · Oracle SQL · ASP.NET Core · EF Core · SQL Server</sub>
 <br/><br/>
 
 <b>Testing &amp; Quality</b>
 <br/>
 <a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
 <br/>
-<sub>➕ JUnit 5 · MockMvc · H2 · Jasmine · Karma · ESLint · Prettier</sub>
+<sub>➕ JUnit 5 · MockMvc · H2 · Jasmine · Karma · ESLint · Prettier · Architecture Decision Records</sub>
 <br/><br/>
 
 <b>Tools &amp; Platforms</b>
 <br/>
-<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,eclipse,docker,netlify" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Eclipse, Docker, Netlify" /></a>
+<a href="https://skillicons.dev"><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,eclipse,docker,netlify,azure" alt="Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code, Eclipse, Docker, Netlify, Azure" /></a>
 <br/>
 <sub>➕ Claude Code for AI-assisted development</sub>
 
@@ -75,35 +81,45 @@ That split is deliberate. Work taught me how software survives in production. My
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
-| **🎮 GameStore** | Full-stack game store: wishlist, cart, simulated checkout, rewards and an admin portal on a JWT-secured Spring Boot API | [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore) |
-| **👔 Employee Management System** | Stateless JWT auth done properly across a Spring Boot API and an Angular client | [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend) |
-| **🃏 Code Pairs** | Memory game on Angular standalone components + Signals, with combo scoring and S–C ranks | [Repo](https://github.com/Robotbino/CodePairs) · [Live](https://codepairsgame.netlify.app/) |
-| **🌌 Personal Portfolio** | One looping scroll over a WebGL aurora: no router, ten ADRs, gated by CI | [Repo](https://github.com/Robotbino/PorfolioWebsite) · [Live](https://binohlongwana.netlify.app/) |
+| **🎮 GameStore** | Full-stack game store: live search, wishlist, cart, simulated checkout with rewards, profile and settings, and an admin portal on a JWT-secured Spring Boot API | [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore) |
+| **👔 Employee Management System** | Spring Boot API and Angular client for employee records: JWT auth across the seam, and a dual theme with measured WCAG AA contrast | [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend) |
+| **🃏 Code Pairs** | Memory game on Angular 19 standalone components + Signals, with combo scoring, S–C ranks and full keyboard and screen-reader play | [Repo](https://github.com/Robotbino/CodePairs) · [Live](https://codepairsgame.netlify.app/) |
+| **🌌 Personal Portfolio** | One looping scroll over a WebGL aurora and a WebGL star map of real stars: no router, 15 ADRs, gated by CI | [Repo](https://github.com/Robotbino/PorfolioWebsite) · [Live](https://binohlongwana.netlify.app/) |
 
 <br/>
 
 ### 🎮 GameStore: a complete commerce loop, end to end
 
-Started as a React UI exercise. I kept asking what an actual store needs behind the pretty grid, and it turned into a full-stack app with the whole loop: **discover → wishlist → cart → checkout → own**.
+Started as a React UI exercise. I kept asking what an actual store needs behind the pretty grid, and it turned into a full-stack app with the whole loop: **discover → wishlist → cart → checkout → own**. Two audiences share one API: customers get live search, a wishlist, checkout, a library, a profile with their rewards ledger and a settings page; admins get a separate portal with full CRUD over games and users.
 
-- **Two audiences, one API.** Customers search the catalogue with live suggestions, keep a wishlist, check out and build a personal library. Admins get a separate portal with full CRUD over games and users.
-- **Checkout that respects money, even fake money.** One transaction snapshots each line's price, grants ownership and returns a `DEMO-` receipt. The rewards ledger (earn 10 points per R1, redeem 100 points for R1 off) is always recomputed on the server, and card details never leave the browser.
-- **Security is the backbone, not a bolt-on.** Stateless JWTs, USER/ADMIN roles in one ordered filter chain, identity taken only from the token (never from a `?userId=`), and authorities reloaded from the database on every request.
-- **Built to be trusted.** Flyway owns the schema, 63 integration tests run against in-memory H2, and both repos ship an interactive engineering handbook plus a plain list of known limitations.
+<p align="center">
+  <a href="https://github.com/Robotbino/gameStore"><img width="720" src="https://raw.githubusercontent.com/Robotbino/gameStore/main/docs/screenshots/checkout-pay.png" alt="GameStore checkout, pay step: a live card preview, the rewards redeem toggle and a 'Demo checkout, no money moves' badge" /></a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 7" />
+  <img src="https://img.shields.io/badge/React_Router_7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router 7" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
 </p>
 
-🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore)
+🔗 [Backend](https://github.com/Robotbino/gameStore-backend) · [Frontend](https://github.com/Robotbino/gameStore) · Engineering handbook, in-repo: [API docs](https://github.com/Robotbino/gameStore-backend/tree/main/docs) · [UI docs](https://github.com/Robotbino/gameStore/tree/main/docs)
+
+<details open>
+<summary><b>Engineering notes</b></summary>
+
+- **Checkout that respects money, even fake money.** One transaction snapshots each line's title and price, grants ownership and returns a `DEMO-` receipt. The rewards ledger (earn 10 points per R1, redeem 100 points for R1 off) is always recomputed on the server. Card, Stripe and Payflex are all simulated: card details never leave the browser, and a card number ending in 0002 is declined locally so the failure path can be exercised.
+- **Security is the backbone, not a bolt-on.** Stateless JWTs, USER/ADMIN roles in one ordered filter chain, identity taken only from the token (never from a `?userId=`), and authorities reloaded from the database on every request, so a role change takes effect on the next call. A public `/demo` page walks through the 401 → 403 → 200 access ladder.
+- **Built to be trusted.** Flyway owns the schema through six versioned migrations with `ddl-auto=validate`, so drift stops the app at startup instead of hiding. The API is 26 routes across 7 controllers, and 63 integration tests run it against in-memory H2. Both repos ship an engineering handbook (searchable, with diagrams, quizzes and a scorecard) plus a plain list of known limitations.
+- **Small things that add up.** Debounced live search with a keyboard-navigable combobox, server-side pagination, optimistic wishlist toggles, skeleton loaders, and a motion system that respects `prefers-reduced-motion`.
+
+</details>
 
 ---
 
@@ -111,33 +127,33 @@ Started as a React UI exercise. I kept asking what an actual store needs behind 
 
 Plenty of tutorials stop at "login works". I built this one to find out where token-based auth actually leaks: the seam between an API that trusts nothing and a client that has to remember everything.
 
-- **Java 17 / Spring Boot 3 REST API** over employee records: CRUD behind a Spring Security 6 filter chain that issues and verifies JWTs on every request.
-- **The Angular side holds up its end.** An HTTP interceptor attaches the token to outbound calls; route guards keep protected routes protected instead of just hiding the nav link.
-- **A UI that only promises what it does.** Light and dark themes with measured WCAG AA contrast, a dense table that drops columns by priority on smaller screens, and distinct loading, empty, no-results and error states. Buttons that led nowhere were removed, not styled.
-- **Decisions on paper.** The API ships an architecture and MVP roadmap doc; the client records its theme and layout choices as ADRs.
-
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
   <img src="https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security 6" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 19" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
 </p>
 
 🔗 [Backend](https://github.com/Robotbino/EmployeeManager-Application) · [Frontend](https://github.com/Robotbino/EmployeeManager-Application-Frontend)
+
+<details>
+<summary><b>Engineering notes</b></summary>
+
+- **Java 17 / Spring Boot 3 REST API** over employee records. Register and login issue JWTs, and a once-per-request filter validates the Bearer token on every call. The employee routes themselves are still open; the architecture doc names closing that gap as the first of four scoped MVP changes, alongside a global error contract, server-side pagination and CSV export.
+- **The Angular side holds up its end.** An HTTP interceptor attaches the token and signs out on a 401 or 403; route guards keep protected routes protected, with a return URL, instead of just hiding the nav link.
+- **A UI that only promises what it does.** Light and dark themes with measured WCAG AA contrast (lowest 6.16:1 in light, 5.04:1 in dark), a dense table that drops columns by priority on smaller screens, distinct loading, empty, no-results and error states, and toasts instead of `alert()`. Three buttons that led nowhere were removed, not styled.
+- **Decisions on paper.** The API ships an architecture and MVP roadmap doc that is honest about what is built and what is not; the client records its theme and layout choices as three ADRs and keeps a `CONTEXT.md` glossary that separates User, Employee and Employee Code.
+
+</details>
 
 ---
 
 ### 🃏 Code Pairs: a memory game, rebuilt to learn Signals
 
 A code-themed card matching game that I tore down and rebuilt on Angular's standalone components and Signals. The rewrite was the point.
-
-- **Game state as derived state.** One service holds the raw state in writable signals, and everything else (multiplier, accuracy, rank) is `computed` from it, which killed a whole class of stale-UI bugs.
-- **Actual game design.** Three difficulties, each with its own grid, lives and par time. Consecutive matches ramp a combo multiplier up to 3×, and every win is graded S, A, B or C.
-- **Neo-brutalist "Paper & Ink" design system** built on CSS custom properties, with 3D CSS card flips. Every button splits into a stationary hit box and a moving face, so a press can't slide off its own target.
-- **Playable by everyone.** Keyboard controls, screen-reader announcements for every flip and match, full reduced-motion support, and unit tests on the game rules.
 
 <p>
   <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 19" />
@@ -150,45 +166,64 @@ A code-themed card matching game that I tore down and rebuilt on Angular's stand
 
 🔗 [Repository](https://github.com/Robotbino/CodePairs) · [Live Demo](https://codepairsgame.netlify.app/)
 
+<details>
+<summary><b>Engineering notes</b></summary>
+
+- **Game state as derived state.** One service holds the raw state in writable signals, and everything else (multiplier, accuracy, rank) is `computed` from it, which killed a whole class of stale-UI bugs. The board locks during a mismatch, every deal gets fresh card ids, and the confetti runs outside Angular's zone.
+- **Actual game design.** Three difficulties, each with its own grid, lives and par time, from a 2×2 board in 12 seconds to 4×3 in 70. Consecutive matches ramp a combo multiplier from 1× to 3×, and every win is graded S, A, B or C.
+- **Neo-brutalist "Paper & Ink" design system** built on CSS custom properties, with 3D CSS card flips. Every button splits into a stationary hit box and a moving face, so a press can't slide off its own target.
+- **Playable by everyone.** Keyboard controls, screen-reader announcements for every flip and match, full reduced-motion support, and Jasmine/Karma unit tests on the game rules, the scoreboard and the card.
+
+</details>
+
 ---
 
 ### 🌌 Personal Portfolio: an Awwwards-inspired site
 
-I didn't want a résumé with a nav bar, that's boring. This one is a single continuous scroll: five destinations that wrap into a seamless loop, floating over a WebGL aurora.
-
-- **No router.** The whole site is one scroll loop with a cloned first section at the end, so reaching the bottom wraps back to the top without a jump or a route change.
-- **One frame loop drives everything.** A GLSL aurora rendered with OGL and an SVG constellation that morphs between the five destinations both run on a single shared `requestAnimationFrame` pulse outside Angular's zone, which keeps change detection off the 60 fps hot path.
-- **Every real decision is an ADR.** Ten so far, including the ones I tried and rejected. The repo also ships an interactive onboarding guide for anyone reading the code cold.
-- **Nothing reaches production unchecked.** Every push runs lint, a format check, unit tests on the pure scroll and motion maths, and a build that generates the Content-Security-Policy.
+I didn't want a résumé with a nav bar, that's boring. This one is a single continuous scroll: five destinations (Home, Experience, About, Certifications, Contact) that wrap into a seamless loop, floating over a WebGL aurora and a star map drawn from real stars.
 
 <p>
   <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" />
   <img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Signals" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/OGL_(WebGL)-000000?style=flat-square&logo=webgl&logoColor=white" alt="OGL WebGL" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <a href="https://github.com/Robotbino/PorfolioWebsite/actions/workflows/ci.yml"><img src="https://github.com/Robotbino/PorfolioWebsite/actions/workflows/ci.yml/badge.svg" alt="Portfolio CI status" /></a>
 </p>
 
-🔗 [Repository](https://github.com/Robotbino/PorfolioWebsite) · [Live Demo](https://binohlongwana.netlify.app/)
+🔗 [Repository](https://github.com/Robotbino/PorfolioWebsite) · [Live Demo](https://binohlongwana.netlify.app/) · [ADRs](https://github.com/Robotbino/PorfolioWebsite/tree/main/docs/adr)
+
+<details>
+<summary><b>Engineering notes</b></summary>
+
+- **No router.** The whole site is one scroll loop with a cloned first section at the end, so reaching the bottom wraps back to the top without a jump or a route change.
+- **One frame loop drives everything.** A GLSL aurora and a WebGL star map, both rendered with OGL, share a single `requestAnimationFrame` pulse outside Angular's zone, which keeps change detection off the 60 fps hot path. The star map places stars at their real distances, tints them by spectral class and swings one camera between destinations; if WebGL is slow or software-rendered it falls back to SVG for the session, and phones get a CSS aurora instead.
+- **Lean by decision.** Runtime dependencies are Angular, OGL and RxJS, nothing else. three.js was rejected at roughly 129 kB gzipped, inline SVG icons replaced an icon font, fonts are self-hosted, and every component is OnPush, enforced by lint. The move to Angular 21 took `npm audit` from 3 critical and 33 high findings to zero.
+- **Every real decision is an ADR.** Fifteen so far, including the ones I tried and rejected. The repo also ships an interactive onboarding guide for anyone reading the code cold.
+- **Nothing reaches `main` unchecked.** Every push to `main` and every pull request runs lint, a format check, all 29 spec files, and a build that generates the Content-Security-Policy and fails if it can't.
+
+</details>
 
 ---
 
 ## 🧱 How I Build
 
-- **Decisions get written down.** Ten ADRs in the portfolio (rejected ideas included) and three in Employee Manager. GameStore ships an interactive engineering handbook that spans both of its repos.
-- **Tests live where the logic lives.** 63 integration tests cover the GameStore API against in-memory H2. The portfolio keeps its maths in pure, unit-tested functions, and CI checks every push.
-- **The schema is code.** Flyway owns the GameStore database through versioned migrations with `ddl-auto=validate`, so schema drift stops the app at startup instead of hiding.
-- **Accessibility is part of done.** Keyboard play, screen-reader announcements and reduced-motion support in Code Pairs; measured WCAG AA contrast in both Employee Manager themes.
-- **Limitations are stated plainly.** Both GameStore READMEs keep a "Known limitations" section: what doesn't work yet, and why.
+- **Decisions get written down.** Fifteen ADRs in the portfolio (rejected ideas included) and three in Employee Manager. GameStore ships an engineering handbook that spans both of its repos.
+- **Tests live where the logic lives.** 63 integration tests cover the GameStore API against in-memory H2. The portfolio runs all 29 of its spec files in CI, and Code Pairs unit-tests its game rules.
+- **The schema is code.** Flyway owns the GameStore database through six versioned migrations with `ddl-auto=validate`, so schema drift stops the app at startup instead of hiding.
+- **Accessibility is part of done.** Keyboard play, screen-reader announcements and reduced-motion support in Code Pairs and the portfolio; measured WCAG AA contrast (6.16:1 light, 5.04:1 dark) in both Employee Manager themes.
+- **Limitations are stated plainly.** Both GameStore READMEs keep a "Known limitations" section, and the Employee Manager architecture doc names its own auth gap as the first thing to fix.
 
 ## 🧰 More on My GitHub
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| [📋 Agile Board](https://github.com/Robotbino/To-do-List-App) | Kanban-style task manager with multiple boards, TODO / DOING / DONE columns and a remembered light/dark theme | Vanilla JS (ES modules) · CSS · localStorage |
-| [😂 Meme Generator](https://github.com/Robotbino/MemeGenerator) | Pulls templates from the Imgflip API and lets you caption them; my hands-on lesson in React state and controlled forms | React · JavaScript |
+| [📋 Agile Board](https://github.com/Robotbino/To-do-List-App) | Kanban-style task manager: switch between boards, TODO / DOING / DONE columns, and a light/dark theme that is remembered along with your sidebar and active board | Vanilla JS (ES modules) · CSS · localStorage |
+| [😂 Meme Generator](https://github.com/Robotbino/MemeGenerator) | Pulls templates from the Imgflip API and lets you caption them; my hands-on lesson in React state and controlled forms, built along Scrimba's Learn React course | React 19 · JavaScript · Vite |
+| [🚚 EcoPower Logistics API](https://github.com/Robotbino/CMPG323-Project-2-37687638) | University project (NWU CMPG323, 2023): ASP.NET Core 6 Web API with Identity roles and JWT, EF Core on SQL Server and Swagger docs. Deployed to Azure for the module, since retired | C# · .NET 6 · EF Core · SQL Server |
+| [🌦️ Weather App](https://github.com/Robotbino/weatherApp) 🚧 | Work in progress: the UI shell for a weather app is laid out; live data is next | React 19 · Vite |
 
 ## 📜 Certifications
 
@@ -198,7 +233,7 @@ I didn't want a résumé with a nav bar, that's boring. This one is a single con
 | Claude 101 | Anthropic Academy | Apr 2026 | [Verify](https://verify.skilljar.com/c/2qgjschtf8e8) |
 | JavaScript | Scrimba | Dec 2025 | [Verify](https://scrimba.com/u42ef1c4:certs;cert24zAwPPowS2rZVEfEZ2kSBedSKFrfvEXo19z4) |
 | HTML and CSS Fundamentals | Scrimba | Dec 2025 | [Verify](https://scrimba.com/u42ef1c4:certs;cert24zAwPPowS2rZVEfEZ2kSBd99ByKWBUFmmm1J) |
-| Artificial Intelligence Fundamentals | IBM | Oct 2024 | [Verify](https://www.credly.com/badges/68d7322a-1584-4605-951d-e84b73cef357/public_url) |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | Oct 2024 | [Verify](https://www.credly.com/badges/68d7322a-1584-4605-951d-e84b73cef357/public_url) |
 
 ## 📈 GitHub Activity
 
@@ -210,6 +245,14 @@ I didn't want a résumé with a nav bar, that's boring. This one is a single con
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotbino&layout=compact&hide_border=true&theme=github_dark&title_color=DFB11C&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotbino&layout=compact&hide_border=true&theme=default&title_color=DFB11C&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotbino&layout=compact&hide_border=true&theme=default&title_color=DFB11C&langs_count=8" alt="Most used languages across my public repositories" />
+  </picture>
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -218,4 +261,11 @@ I didn't want a résumé with a nav bar, that's boring. This one is a single con
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robotbino/Robotbino/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Robotbino/Robotbino/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>Looking for a full-stack developer who writes the docs too?</b><br/>
+  <a href="mailto:Hlongwanabino@gmail.com?subject=Full-stack%20role">Email</a> · <a href="https://www.linkedin.com/in/bino-hlongwana-162226272">LinkedIn</a> · <a href="https://binohlongwana.netlify.app/">Portfolio</a>
 </p>
